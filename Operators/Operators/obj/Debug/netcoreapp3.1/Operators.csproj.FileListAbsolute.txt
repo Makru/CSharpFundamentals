@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+C:\Users\mathi\source\repos\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+C:\Users\mathi\source\repos\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+C:\Users\mathi\source\repos\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+C:\Users\mathi\source\repos\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\mathi\source\repos\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+C:\Users\mathi\source\repos\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+C:\Users\mathi\source\repos\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\mathi\source\repos\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache
