@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\Iterations\Iterations\bin\Debug\netcoreapp3.1\Iterations.exe
+C:\Users\mathi\source\repos\Iterations\Iterations\bin\Debug\netcoreapp3.1\Iterations.deps.json
+C:\Users\mathi\source\repos\Iterations\Iterations\bin\Debug\netcoreapp3.1\Iterations.runtimeconfig.json
+C:\Users\mathi\source\repos\Iterations\Iterations\bin\Debug\netcoreapp3.1\Iterations.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\Iterations\Iterations\bin\Debug\netcoreapp3.1\Iterations.dll
+C:\Users\mathi\source\repos\Iterations\Iterations\bin\Debug\netcoreapp3.1\Iterations.pdb
+C:\Users\mathi\source\repos\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.AssemblyInfo.cs
+C:\Users\mathi\source\repos\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.dll
+C:\Users\mathi\source\repos\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.pdb
+C:\Users\mathi\source\repos\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.genruntimeconfig.cache

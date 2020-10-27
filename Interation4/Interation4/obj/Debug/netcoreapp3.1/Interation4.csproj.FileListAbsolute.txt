@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\Interation4\Interation4\obj\Debug\netcoreapp3.1\Interation4.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\Interation4\Interation4\obj\Debug\netcoreapp3.1\Interation4.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\Interation4\Interation4\obj\Debug\netcoreapp3.1\Interation4.AssemblyInfo.cs
+C:\Users\mathi\source\repos\Interation4\Interation4\obj\Debug\netcoreapp3.1\Interation4.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\Interation4\Interation4\bin\Debug\netcoreapp3.1\Interation4.exe
+C:\Users\mathi\source\repos\Interation4\Interation4\bin\Debug\netcoreapp3.1\Interation4.deps.json
+C:\Users\mathi\source\repos\Interation4\Interation4\bin\Debug\netcoreapp3.1\Interation4.runtimeconfig.json
+C:\Users\mathi\source\repos\Interation4\Interation4\bin\Debug\netcoreapp3.1\Interation4.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\Interation4\Interation4\bin\Debug\netcoreapp3.1\Interation4.dll
+C:\Users\mathi\source\repos\Interation4\Interation4\bin\Debug\netcoreapp3.1\Interation4.pdb
+C:\Users\mathi\source\repos\Interation4\Interation4\obj\Debug\netcoreapp3.1\Interation4.dll
+C:\Users\mathi\source\repos\Interation4\Interation4\obj\Debug\netcoreapp3.1\Interation4.pdb
+C:\Users\mathi\source\repos\Interation4\Interation4\obj\Debug\netcoreapp3.1\Interation4.genruntimeconfig.cache
