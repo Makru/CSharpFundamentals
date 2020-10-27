@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\Exercise8\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.exe
+C:\Users\mathi\source\repos\Exercise8\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.deps.json
+C:\Users\mathi\source\repos\Exercise8\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.runtimeconfig.json
+C:\Users\mathi\source\repos\Exercise8\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\Exercise8\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.dll
+C:\Users\mathi\source\repos\Exercise8\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.pdb
+C:\Users\mathi\source\repos\Exercise8\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\Exercise8\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\Exercise8\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.AssemblyInfo.cs
+C:\Users\mathi\source\repos\Exercise8\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\Exercise8\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.dll
+C:\Users\mathi\source\repos\Exercise8\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.pdb
+C:\Users\mathi\source\repos\Exercise8\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.genruntimeconfig.cache
