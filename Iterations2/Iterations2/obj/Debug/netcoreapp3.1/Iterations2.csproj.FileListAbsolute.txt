@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\Iterations2\Iterations2\bin\Debug\netcoreapp3.1\Iterations2.exe
+C:\Users\mathi\source\repos\Iterations2\Iterations2\bin\Debug\netcoreapp3.1\Iterations2.deps.json
+C:\Users\mathi\source\repos\Iterations2\Iterations2\bin\Debug\netcoreapp3.1\Iterations2.runtimeconfig.json
+C:\Users\mathi\source\repos\Iterations2\Iterations2\bin\Debug\netcoreapp3.1\Iterations2.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\Iterations2\Iterations2\bin\Debug\netcoreapp3.1\Iterations2.dll
+C:\Users\mathi\source\repos\Iterations2\Iterations2\bin\Debug\netcoreapp3.1\Iterations2.pdb
+C:\Users\mathi\source\repos\Iterations2\Iterations2\obj\Debug\netcoreapp3.1\Iterations2.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\Iterations2\Iterations2\obj\Debug\netcoreapp3.1\Iterations2.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\Iterations2\Iterations2\obj\Debug\netcoreapp3.1\Iterations2.AssemblyInfo.cs
+C:\Users\mathi\source\repos\Iterations2\Iterations2\obj\Debug\netcoreapp3.1\Iterations2.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\Iterations2\Iterations2\obj\Debug\netcoreapp3.1\Iterations2.dll
+C:\Users\mathi\source\repos\Iterations2\Iterations2\obj\Debug\netcoreapp3.1\Iterations2.pdb
+C:\Users\mathi\source\repos\Iterations2\Iterations2\obj\Debug\netcoreapp3.1\Iterations2.genruntimeconfig.cache
