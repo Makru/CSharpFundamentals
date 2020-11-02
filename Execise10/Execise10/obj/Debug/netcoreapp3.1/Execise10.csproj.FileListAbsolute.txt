@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise10\Execise10\obj\Debug\netcoreapp3.1\Execise10.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise10\Execise10\obj\Debug\netcoreapp3.1\Execise10.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise10\Execise10\obj\Debug\netcoreapp3.1\Execise10.AssemblyInfo.cs
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise10\Execise10\obj\Debug\netcoreapp3.1\Execise10.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise10\Execise10\bin\Debug\netcoreapp3.1\Execise10.exe
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise10\Execise10\bin\Debug\netcoreapp3.1\Execise10.deps.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise10\Execise10\bin\Debug\netcoreapp3.1\Execise10.runtimeconfig.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise10\Execise10\bin\Debug\netcoreapp3.1\Execise10.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise10\Execise10\bin\Debug\netcoreapp3.1\Execise10.dll
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise10\Execise10\bin\Debug\netcoreapp3.1\Execise10.pdb
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise10\Execise10\obj\Debug\netcoreapp3.1\Execise10.dll
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise10\Execise10\obj\Debug\netcoreapp3.1\Execise10.pdb
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise10\Execise10\obj\Debug\netcoreapp3.1\Execise10.genruntimeconfig.cache

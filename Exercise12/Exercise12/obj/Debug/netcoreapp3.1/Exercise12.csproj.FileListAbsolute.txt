@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise12\Exercise12\bin\Debug\netcoreapp3.1\Exercise12.exe
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise12\Exercise12\bin\Debug\netcoreapp3.1\Exercise12.deps.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise12\Exercise12\bin\Debug\netcoreapp3.1\Exercise12.runtimeconfig.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise12\Exercise12\bin\Debug\netcoreapp3.1\Exercise12.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise12\Exercise12\bin\Debug\netcoreapp3.1\Exercise12.dll
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise12\Exercise12\bin\Debug\netcoreapp3.1\Exercise12.pdb
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise12\Exercise12\obj\Debug\netcoreapp3.1\Exercise12.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise12\Exercise12\obj\Debug\netcoreapp3.1\Exercise12.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise12\Exercise12\obj\Debug\netcoreapp3.1\Exercise12.AssemblyInfo.cs
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise12\Exercise12\obj\Debug\netcoreapp3.1\Exercise12.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise12\Exercise12\obj\Debug\netcoreapp3.1\Exercise12.dll
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise12\Exercise12\obj\Debug\netcoreapp3.1\Exercise12.pdb
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise12\Exercise12\obj\Debug\netcoreapp3.1\Exercise12.genruntimeconfig.cache

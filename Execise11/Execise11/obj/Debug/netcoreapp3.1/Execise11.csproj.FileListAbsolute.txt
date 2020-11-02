@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise11\Execise11\bin\Debug\netcoreapp3.1\Execise11.exe
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise11\Execise11\bin\Debug\netcoreapp3.1\Execise11.deps.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise11\Execise11\bin\Debug\netcoreapp3.1\Execise11.runtimeconfig.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise11\Execise11\bin\Debug\netcoreapp3.1\Execise11.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise11\Execise11\bin\Debug\netcoreapp3.1\Execise11.dll
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise11\Execise11\bin\Debug\netcoreapp3.1\Execise11.pdb
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise11\Execise11\obj\Debug\netcoreapp3.1\Execise11.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise11\Execise11\obj\Debug\netcoreapp3.1\Execise11.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise11\Execise11\obj\Debug\netcoreapp3.1\Execise11.AssemblyInfo.cs
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise11\Execise11\obj\Debug\netcoreapp3.1\Execise11.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise11\Execise11\obj\Debug\netcoreapp3.1\Execise11.dll
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise11\Execise11\obj\Debug\netcoreapp3.1\Execise11.pdb
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Execise11\Execise11\obj\Debug\netcoreapp3.1\Execise11.genruntimeconfig.cache
