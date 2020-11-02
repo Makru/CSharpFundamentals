@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\CSharp_Fundamentals\TimeSpanDemo\TimeSpanDemo\bin\Debug\netcoreapp3.1\TimeSpanDemo.exe
+C:\Users\mathi\source\repos\CSharp_Fundamentals\TimeSpanDemo\TimeSpanDemo\bin\Debug\netcoreapp3.1\TimeSpanDemo.deps.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\TimeSpanDemo\TimeSpanDemo\bin\Debug\netcoreapp3.1\TimeSpanDemo.runtimeconfig.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\TimeSpanDemo\TimeSpanDemo\bin\Debug\netcoreapp3.1\TimeSpanDemo.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\TimeSpanDemo\TimeSpanDemo\bin\Debug\netcoreapp3.1\TimeSpanDemo.dll
+C:\Users\mathi\source\repos\CSharp_Fundamentals\TimeSpanDemo\TimeSpanDemo\bin\Debug\netcoreapp3.1\TimeSpanDemo.pdb
+C:\Users\mathi\source\repos\CSharp_Fundamentals\TimeSpanDemo\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\TimeSpanDemo\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\TimeSpanDemo\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.AssemblyInfo.cs
+C:\Users\mathi\source\repos\CSharp_Fundamentals\TimeSpanDemo\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\TimeSpanDemo\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.dll
+C:\Users\mathi\source\repos\CSharp_Fundamentals\TimeSpanDemo\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.pdb
+C:\Users\mathi\source\repos\CSharp_Fundamentals\TimeSpanDemo\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.genruntimeconfig.cache
