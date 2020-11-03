@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\SummarisingText\SummarisingText\bin\Debug\netcoreapp3.1\SummarisingText.exe
+C:\Users\mathi\source\repos\SummarisingText\SummarisingText\bin\Debug\netcoreapp3.1\SummarisingText.deps.json
+C:\Users\mathi\source\repos\SummarisingText\SummarisingText\bin\Debug\netcoreapp3.1\SummarisingText.runtimeconfig.json
+C:\Users\mathi\source\repos\SummarisingText\SummarisingText\bin\Debug\netcoreapp3.1\SummarisingText.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\SummarisingText\SummarisingText\bin\Debug\netcoreapp3.1\SummarisingText.dll
+C:\Users\mathi\source\repos\SummarisingText\SummarisingText\bin\Debug\netcoreapp3.1\SummarisingText.pdb
+C:\Users\mathi\source\repos\SummarisingText\SummarisingText\obj\Debug\netcoreapp3.1\SummarisingText.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\SummarisingText\SummarisingText\obj\Debug\netcoreapp3.1\SummarisingText.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\SummarisingText\SummarisingText\obj\Debug\netcoreapp3.1\SummarisingText.AssemblyInfo.cs
+C:\Users\mathi\source\repos\SummarisingText\SummarisingText\obj\Debug\netcoreapp3.1\SummarisingText.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\SummarisingText\SummarisingText\obj\Debug\netcoreapp3.1\SummarisingText.dll
+C:\Users\mathi\source\repos\SummarisingText\SummarisingText\obj\Debug\netcoreapp3.1\SummarisingText.pdb
+C:\Users\mathi\source\repos\SummarisingText\SummarisingText\obj\Debug\netcoreapp3.1\SummarisingText.genruntimeconfig.cache
