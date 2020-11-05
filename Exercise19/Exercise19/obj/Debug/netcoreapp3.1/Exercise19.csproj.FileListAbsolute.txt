@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise19\Exercise19\bin\Debug\netcoreapp3.1\Exercise19.exe
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise19\Exercise19\bin\Debug\netcoreapp3.1\Exercise19.deps.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise19\Exercise19\bin\Debug\netcoreapp3.1\Exercise19.runtimeconfig.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise19\Exercise19\bin\Debug\netcoreapp3.1\Exercise19.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise19\Exercise19\bin\Debug\netcoreapp3.1\Exercise19.dll
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise19\Exercise19\bin\Debug\netcoreapp3.1\Exercise19.pdb
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise19\Exercise19\obj\Debug\netcoreapp3.1\Exercise19.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise19\Exercise19\obj\Debug\netcoreapp3.1\Exercise19.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise19\Exercise19\obj\Debug\netcoreapp3.1\Exercise19.AssemblyInfo.cs
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise19\Exercise19\obj\Debug\netcoreapp3.1\Exercise19.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise19\Exercise19\obj\Debug\netcoreapp3.1\Exercise19.dll
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise19\Exercise19\obj\Debug\netcoreapp3.1\Exercise19.pdb
+C:\Users\mathi\source\repos\CSharp_Fundamentals\Exercise19\Exercise19\obj\Debug\netcoreapp3.1\Exercise19.genruntimeconfig.cache
