@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.exe
+C:\Users\mathi\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.deps.json
+C:\Users\mathi\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.runtimeconfig.json
+C:\Users\mathi\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.dll
+C:\Users\mathi\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.pdb
+C:\Users\mathi\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.AssemblyInfo.cs
+C:\Users\mathi\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.dll
+C:\Users\mathi\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.pdb
+C:\Users\mathi\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.genruntimeconfig.cache
