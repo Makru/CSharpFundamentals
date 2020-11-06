@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralProgramming\ProceduralProgramming\bin\Debug\netcoreapp3.1\ProceduralProgramming.exe
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralProgramming\ProceduralProgramming\bin\Debug\netcoreapp3.1\ProceduralProgramming.deps.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralProgramming\ProceduralProgramming\bin\Debug\netcoreapp3.1\ProceduralProgramming.runtimeconfig.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralProgramming\ProceduralProgramming\bin\Debug\netcoreapp3.1\ProceduralProgramming.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralProgramming\ProceduralProgramming\bin\Debug\netcoreapp3.1\ProceduralProgramming.dll
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralProgramming\ProceduralProgramming\bin\Debug\netcoreapp3.1\ProceduralProgramming.pdb
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralProgramming\ProceduralProgramming\obj\Debug\netcoreapp3.1\ProceduralProgramming.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralProgramming\ProceduralProgramming\obj\Debug\netcoreapp3.1\ProceduralProgramming.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralProgramming\ProceduralProgramming\obj\Debug\netcoreapp3.1\ProceduralProgramming.AssemblyInfo.cs
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralProgramming\ProceduralProgramming\obj\Debug\netcoreapp3.1\ProceduralProgramming.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralProgramming\ProceduralProgramming\obj\Debug\netcoreapp3.1\ProceduralProgramming.dll
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralProgramming\ProceduralProgramming\obj\Debug\netcoreapp3.1\ProceduralProgramming.pdb
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralProgramming\ProceduralProgramming\obj\Debug\netcoreapp3.1\ProceduralProgramming.genruntimeconfig.cache

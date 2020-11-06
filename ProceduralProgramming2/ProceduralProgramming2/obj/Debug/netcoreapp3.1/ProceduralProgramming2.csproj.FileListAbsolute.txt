@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\ProceduralProgramming2\ProceduralProgramming2\obj\Debug\netcoreapp3.1\ProceduralProgramming2.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\ProceduralProgramming2\ProceduralProgramming2\obj\Debug\netcoreapp3.1\ProceduralProgramming2.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\ProceduralProgramming2\ProceduralProgramming2\obj\Debug\netcoreapp3.1\ProceduralProgramming2.AssemblyInfo.cs
+C:\Users\mathi\source\repos\ProceduralProgramming2\ProceduralProgramming2\obj\Debug\netcoreapp3.1\ProceduralProgramming2.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\ProceduralProgramming2\ProceduralProgramming2\bin\Debug\netcoreapp3.1\ProceduralProgramming2.exe
+C:\Users\mathi\source\repos\ProceduralProgramming2\ProceduralProgramming2\bin\Debug\netcoreapp3.1\ProceduralProgramming2.deps.json
+C:\Users\mathi\source\repos\ProceduralProgramming2\ProceduralProgramming2\bin\Debug\netcoreapp3.1\ProceduralProgramming2.runtimeconfig.json
+C:\Users\mathi\source\repos\ProceduralProgramming2\ProceduralProgramming2\bin\Debug\netcoreapp3.1\ProceduralProgramming2.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\ProceduralProgramming2\ProceduralProgramming2\bin\Debug\netcoreapp3.1\ProceduralProgramming2.dll
+C:\Users\mathi\source\repos\ProceduralProgramming2\ProceduralProgramming2\bin\Debug\netcoreapp3.1\ProceduralProgramming2.pdb
+C:\Users\mathi\source\repos\ProceduralProgramming2\ProceduralProgramming2\obj\Debug\netcoreapp3.1\ProceduralProgramming2.dll
+C:\Users\mathi\source\repos\ProceduralProgramming2\ProceduralProgramming2\obj\Debug\netcoreapp3.1\ProceduralProgramming2.pdb
+C:\Users\mathi\source\repos\ProceduralProgramming2\ProceduralProgramming2\obj\Debug\netcoreapp3.1\ProceduralProgramming2.genruntimeconfig.cache
