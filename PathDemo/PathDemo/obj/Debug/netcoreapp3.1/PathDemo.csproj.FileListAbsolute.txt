@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\PathDemo\PathDemo\bin\Debug\netcoreapp3.1\PathDemo.exe
+C:\Users\mathi\source\repos\PathDemo\PathDemo\bin\Debug\netcoreapp3.1\PathDemo.deps.json
+C:\Users\mathi\source\repos\PathDemo\PathDemo\bin\Debug\netcoreapp3.1\PathDemo.runtimeconfig.json
+C:\Users\mathi\source\repos\PathDemo\PathDemo\bin\Debug\netcoreapp3.1\PathDemo.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\PathDemo\PathDemo\bin\Debug\netcoreapp3.1\PathDemo.dll
+C:\Users\mathi\source\repos\PathDemo\PathDemo\bin\Debug\netcoreapp3.1\PathDemo.pdb
+C:\Users\mathi\source\repos\PathDemo\PathDemo\obj\Debug\netcoreapp3.1\PathDemo.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\PathDemo\PathDemo\obj\Debug\netcoreapp3.1\PathDemo.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\PathDemo\PathDemo\obj\Debug\netcoreapp3.1\PathDemo.AssemblyInfo.cs
+C:\Users\mathi\source\repos\PathDemo\PathDemo\obj\Debug\netcoreapp3.1\PathDemo.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\PathDemo\PathDemo\obj\Debug\netcoreapp3.1\PathDemo.dll
+C:\Users\mathi\source\repos\PathDemo\PathDemo\obj\Debug\netcoreapp3.1\PathDemo.pdb
+C:\Users\mathi\source\repos\PathDemo\PathDemo\obj\Debug\netcoreapp3.1\PathDemo.genruntimeconfig.cache
