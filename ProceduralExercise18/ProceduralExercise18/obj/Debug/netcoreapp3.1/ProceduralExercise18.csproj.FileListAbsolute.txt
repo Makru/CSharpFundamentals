@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\ProceduralExercise18\ProceduralExercise18\bin\Debug\netcoreapp3.1\ProceduralExercise18.exe
+C:\Users\mathi\source\repos\ProceduralExercise18\ProceduralExercise18\bin\Debug\netcoreapp3.1\ProceduralExercise18.deps.json
+C:\Users\mathi\source\repos\ProceduralExercise18\ProceduralExercise18\bin\Debug\netcoreapp3.1\ProceduralExercise18.runtimeconfig.json
+C:\Users\mathi\source\repos\ProceduralExercise18\ProceduralExercise18\bin\Debug\netcoreapp3.1\ProceduralExercise18.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\ProceduralExercise18\ProceduralExercise18\bin\Debug\netcoreapp3.1\ProceduralExercise18.dll
+C:\Users\mathi\source\repos\ProceduralExercise18\ProceduralExercise18\bin\Debug\netcoreapp3.1\ProceduralExercise18.pdb
+C:\Users\mathi\source\repos\ProceduralExercise18\ProceduralExercise18\obj\Debug\netcoreapp3.1\ProceduralExercise18.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\ProceduralExercise18\ProceduralExercise18\obj\Debug\netcoreapp3.1\ProceduralExercise18.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\ProceduralExercise18\ProceduralExercise18\obj\Debug\netcoreapp3.1\ProceduralExercise18.AssemblyInfo.cs
+C:\Users\mathi\source\repos\ProceduralExercise18\ProceduralExercise18\obj\Debug\netcoreapp3.1\ProceduralExercise18.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\ProceduralExercise18\ProceduralExercise18\obj\Debug\netcoreapp3.1\ProceduralExercise18.dll
+C:\Users\mathi\source\repos\ProceduralExercise18\ProceduralExercise18\obj\Debug\netcoreapp3.1\ProceduralExercise18.pdb
+C:\Users\mathi\source\repos\ProceduralExercise18\ProceduralExercise18\obj\Debug\netcoreapp3.1\ProceduralExercise18.genruntimeconfig.cache

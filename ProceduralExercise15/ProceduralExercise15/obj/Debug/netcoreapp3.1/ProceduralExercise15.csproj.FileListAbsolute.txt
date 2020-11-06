@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralExercise15\ProceduralExercise15\bin\Debug\netcoreapp3.1\ProceduralExercise15.exe
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralExercise15\ProceduralExercise15\bin\Debug\netcoreapp3.1\ProceduralExercise15.deps.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralExercise15\ProceduralExercise15\bin\Debug\netcoreapp3.1\ProceduralExercise15.runtimeconfig.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralExercise15\ProceduralExercise15\bin\Debug\netcoreapp3.1\ProceduralExercise15.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralExercise15\ProceduralExercise15\bin\Debug\netcoreapp3.1\ProceduralExercise15.dll
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralExercise15\ProceduralExercise15\bin\Debug\netcoreapp3.1\ProceduralExercise15.pdb
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralExercise15\ProceduralExercise15\obj\Debug\netcoreapp3.1\ProceduralExercise15.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralExercise15\ProceduralExercise15\obj\Debug\netcoreapp3.1\ProceduralExercise15.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralExercise15\ProceduralExercise15\obj\Debug\netcoreapp3.1\ProceduralExercise15.AssemblyInfo.cs
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralExercise15\ProceduralExercise15\obj\Debug\netcoreapp3.1\ProceduralExercise15.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralExercise15\ProceduralExercise15\obj\Debug\netcoreapp3.1\ProceduralExercise15.dll
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralExercise15\ProceduralExercise15\obj\Debug\netcoreapp3.1\ProceduralExercise15.pdb
+C:\Users\mathi\source\repos\CSharp_Fundamentals\ProceduralExercise15\ProceduralExercise15\obj\Debug\netcoreapp3.1\ProceduralExercise15.genruntimeconfig.cache

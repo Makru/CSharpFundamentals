@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProceduralExercise18/1.0.0": {
+        "runtime": {
+          "ProceduralExercise18.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProceduralExercise18/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
