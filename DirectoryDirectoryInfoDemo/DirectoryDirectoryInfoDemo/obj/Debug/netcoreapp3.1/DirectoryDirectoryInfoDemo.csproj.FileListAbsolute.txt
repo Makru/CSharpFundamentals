@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\DirectoryDirectoryInfoDemo\DirectoryDirectoryInfoDemo\bin\Debug\netcoreapp3.1\DirectoryDirectoryInfoDemo.exe
+C:\Users\mathi\source\repos\DirectoryDirectoryInfoDemo\DirectoryDirectoryInfoDemo\bin\Debug\netcoreapp3.1\DirectoryDirectoryInfoDemo.deps.json
+C:\Users\mathi\source\repos\DirectoryDirectoryInfoDemo\DirectoryDirectoryInfoDemo\bin\Debug\netcoreapp3.1\DirectoryDirectoryInfoDemo.runtimeconfig.json
+C:\Users\mathi\source\repos\DirectoryDirectoryInfoDemo\DirectoryDirectoryInfoDemo\bin\Debug\netcoreapp3.1\DirectoryDirectoryInfoDemo.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\DirectoryDirectoryInfoDemo\DirectoryDirectoryInfoDemo\bin\Debug\netcoreapp3.1\DirectoryDirectoryInfoDemo.dll
+C:\Users\mathi\source\repos\DirectoryDirectoryInfoDemo\DirectoryDirectoryInfoDemo\bin\Debug\netcoreapp3.1\DirectoryDirectoryInfoDemo.pdb
+C:\Users\mathi\source\repos\DirectoryDirectoryInfoDemo\DirectoryDirectoryInfoDemo\obj\Debug\netcoreapp3.1\DirectoryDirectoryInfoDemo.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\DirectoryDirectoryInfoDemo\DirectoryDirectoryInfoDemo\obj\Debug\netcoreapp3.1\DirectoryDirectoryInfoDemo.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\DirectoryDirectoryInfoDemo\DirectoryDirectoryInfoDemo\obj\Debug\netcoreapp3.1\DirectoryDirectoryInfoDemo.AssemblyInfo.cs
+C:\Users\mathi\source\repos\DirectoryDirectoryInfoDemo\DirectoryDirectoryInfoDemo\obj\Debug\netcoreapp3.1\DirectoryDirectoryInfoDemo.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\DirectoryDirectoryInfoDemo\DirectoryDirectoryInfoDemo\obj\Debug\netcoreapp3.1\DirectoryDirectoryInfoDemo.dll
+C:\Users\mathi\source\repos\DirectoryDirectoryInfoDemo\DirectoryDirectoryInfoDemo\obj\Debug\netcoreapp3.1\DirectoryDirectoryInfoDemo.pdb
+C:\Users\mathi\source\repos\DirectoryDirectoryInfoDemo\DirectoryDirectoryInfoDemo\obj\Debug\netcoreapp3.1\DirectoryDirectoryInfoDemo.genruntimeconfig.cache
